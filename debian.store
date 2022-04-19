@@ -1,1 +1,1 @@
-{"base": "a3dd671", "parent": "debian/rolling/rosbridge_server", "previous": "bd0726f", "trim": "", "trimbase": ""}
+{"base": "a7e7975", "parent": "debian/humble/rosbridge_server", "previous": "8ec7f08", "trim": "", "trimbase": ""}
