@@ -1,1 +1,1 @@
-{"base": "0100c32", "parent": "debian/rolling/rosapi", "previous": "9b76c8a", "trim": "", "trimbase": ""}
+{"base": "340abde", "parent": "debian/humble/rosapi", "previous": "71fc40e", "trim": "", "trimbase": ""}
