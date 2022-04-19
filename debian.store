@@ -1,1 +1,1 @@
-{"base": "fab949a", "parent": "debian/rolling/rosbridge_library", "previous": "1038aaa", "trim": "", "trimbase": ""}
+{"base": "d817f1d", "parent": "debian/humble/rosbridge_library", "previous": "f738268", "trim": "", "trimbase": ""}
